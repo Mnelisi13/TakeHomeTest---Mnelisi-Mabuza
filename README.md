@@ -1,6 +1,8 @@
 # TakeHomeTest---Mnelisi-Mabuza
 TakeHome test for Associate Software Engineer at Impact.com
-
+# Description:
+run the NumberRangeSummarizerImplTest to test the functionality of the solution.
+Assumption: no other characters or strings are used as input.
 # Requirements
 - Java 8 or higher
 - JUnit 4.13.2

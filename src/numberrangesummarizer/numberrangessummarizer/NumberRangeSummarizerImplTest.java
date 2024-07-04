@@ -2,11 +2,13 @@ package numberrangesummarizer.numberrangessummarizer;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-
 import java.util.Arrays;
 import java.util.Collection;
-
 import static org.junit.jupiter.api.Assertions.*;
+
+// author: Mnelisi Mabuza
+// Unit Testing
+// Assumptions: no other characters or strings are used as input other than the numbers.
 
 class NumberRangeSummarizerImplTest {
 

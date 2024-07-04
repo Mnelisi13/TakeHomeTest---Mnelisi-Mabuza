@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.List;
 //Author: Mnelisi Mabuza
 // Impact.com TakeHomeTest
+
 public class NumberRangeSummarizerImpl implements NumberRangeSummarizer {
     @Override
     public Collection<Integer> collect(String input) {//collect the numbers from input string
